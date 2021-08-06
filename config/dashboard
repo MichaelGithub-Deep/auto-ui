@@ -1,0 +1,11 @@
+# springBoot接口配置
+springBoot_url: "http://qa.springbootadmin.gongkongsaas.com"
+springBoot_headers: {"Accept": "application/json"}
+
+# skyWalking接口配置
+skyWalking_url: "https://prod.skywalking.gongkongsaas.com"
+skyWalking_headers: {"content-type": "application/json;charset=UTF-8"}
+
+# swagger接口配置
+swagger_url: "http://qa.swagger.gongkongsaas.com"
+swagger_headers: {"Accept": "application/json, text/plain, */*", "knfie4j-gateway-request": ""}
